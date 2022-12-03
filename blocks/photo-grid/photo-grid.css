@@ -25,7 +25,6 @@
 
 @media (max-width: 730px) {
   .photo-grid {
-    max-width: 720px;
     padding: 64px 16px 0 16px;
     gap: 12px;
   }

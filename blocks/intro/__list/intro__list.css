@@ -5,10 +5,3 @@
   font-size: 12px;
   line-height: 1.5;
 }
-
-@media (max-width: 730px) {
-  .intro__list {
-    margin: 32px 0 0;  /* По Pixel Perfect */
-    /*margin: 34px 0 0;*/  /* По макету */
-  }
-}
