@@ -1,0 +1,11 @@
+.cover__link {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color 0.1s linear 0s;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
