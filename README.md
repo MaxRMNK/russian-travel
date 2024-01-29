@@ -2,8 +2,6 @@
 
 Ссылка на Gihub Pages: https://maxrmnk.github.io/russian-travel/
 
-Макет сайта: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile
-
 ## Описание проекта
 Проект выполнен в качестве проверочного задания в рамках учебной программы **[ЯндексПрактикум «Веб-разработчик»](https://practicum.yandex.ru/web/)**, курс 2, проектная работа 3.
 
@@ -11,3 +9,6 @@
 
 ### Технологии
 Сайт создан с использованием изученных технологий: flexbox и grid, адаптивная верстка (для ширины в 320, 768, 1024 и 1280 пикселей), анимация элементов, а также построение структуры классов и файлов по методологии БЭМ.
+
+### Макет
+[Макет сайта в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile)
